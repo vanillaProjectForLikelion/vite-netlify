@@ -94,9 +94,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+@use './commom' as *;
 
 body{
-  background-color: #ffc;
+  background-color: $pink;
   display: flex;
   justify-content: center;
   align-items: center;
