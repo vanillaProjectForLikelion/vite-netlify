@@ -94,3 +94,11 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+body{
+  background-color: #ffc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
